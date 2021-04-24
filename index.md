@@ -4,3 +4,8 @@ Huge beds of native oysters were once common in the waters around Campbeltown Lo
 
 * Restore native oysters to Cambeltown Loch and surrounding waters
 * Supply oyster seed for restoration nationally and internationally
+
+# The collapse 
+
+In temperate climates, like the UK, native oyster beds play a role similar to tropical coral reefs.
+
