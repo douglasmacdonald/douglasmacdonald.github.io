@@ -25,7 +25,7 @@ https://www.dropbox.com/s/x9upeghkjcbs7wl/Brand%20Overview%20Deck.pptx?dl=0
 
 
 |Title | Dates | Assigned to | Description|
-| |  |  | |
+|------|-------|-------------|------------|
 | |  |  | |
 | |  |  | |
 | |  |  | |
