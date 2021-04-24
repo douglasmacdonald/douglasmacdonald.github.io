@@ -1,6 +1,7 @@
+# Our Native Oysters
+
 In temperate climates, like the UK, native oyster beds play a role similar to tropical coral reefs. And like coral reefs, when native oyster beds collapse then all the species that utilised that environment also disappear. This leaves barren expanses, poorer water quality and, in the main, only transient species. 
 
-# Our Native Oysters
 Described as a keystone species, Native Oysters both clean water and provide an environment for a whole ecosystem. Native oysters were once common around Scotland, UK, coastal European countries and as far south as Morocco. 
 
 ###### Off our coast
