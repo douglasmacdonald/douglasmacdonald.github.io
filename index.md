@@ -1,8 +1,9 @@
+# Background
+
+Huge beds of native oysters were once common in the waters in and around Campbeltown Loch. Described as a keystone species, they both clean water and provide 
+an environment for a whole ecosystem.
+
 # Our aims
-
-Huge beds of native oysters were once common in the waters in and around Campbeltown Loch. Described as a keystone species, they both clean water and provide an environment for a whole ecosystem.
-
-###### Aims
 
 * Restore native oysters to Cambeltown Loch and surrounding waters
 * Supply oyster seed for restoration nationally and internationally
