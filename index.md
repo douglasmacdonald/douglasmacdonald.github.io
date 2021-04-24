@@ -1,8 +1,9 @@
-Described as a keystone species, Native Oysters both clean water and provide an environment for a whole ecosystem.
 
-Native oysters were once common around Scotland, UK, coastal European countries and as far south as Morocco.
 
 # Our Native Oysters
+Described as a keystone species, Native Oysters both clean water and provide an environment for a whole ecosystem. Native oysters were once common around Scotland, UK, coastal European countries and as far south as Morocco. 
+
+###### Off the coast of Campbletown
 
 Huge beds (possibly a billion) of native oysters were also common in the waters in and around Campbeltown Loch. 
 
