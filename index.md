@@ -14,7 +14,7 @@ Huge beds (possibly a billion) of native oysters were also found in the waters o
 
 ###### The collapse 
 
-Within 100 years 90% of all Native Oysters have gone.
+Within 100 years more than 95% of all Native Oysters have gone and in Kintyre they are functionally extinct.
 
 ###### Impact
 
