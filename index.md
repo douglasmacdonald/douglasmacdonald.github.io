@@ -10,7 +10,7 @@ Native oysters were once common around Scotland, UK, coastal European countries 
 
 ###### Off our coast
 
-Huge beds (possibly a billion) of native oysters were also common in the waters off east of Kintyre and Campbeltown Loch. 
+Huge beds (possibly a billion) of native oysters were also found in the waters off east of Kintyre and Campbeltown Loch. 
 
 ###### The collapse 
 
