@@ -7,5 +7,5 @@ Huge beds of native oysters were once common in the waters in and around Campbel
 
 # The slow collapse 
 
-In temperate climates, like the UK, native oyster beds play a role similar to tropical coral reefs.
+In temperate climates, like the UK, native oyster beds play a role similar to tropical coral reefs. And like coral reefs, when native oyster beds collapse then all the other species that utilised that environment also disappear. This leaves barren expanses and transient species. 
 
