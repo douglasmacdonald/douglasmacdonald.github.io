@@ -1,7 +1,7 @@
 # Our Native Oysters
+Native oysters were once common around Scotland, UK, coastal European countries and as far south as Morocco but within 100 years 90% have gone.
 
-Huge beds of native oysters were once common in the waters in and around Campbeltown Loch. Described as a keystone species, they both clean water and provide 
-an environment for a whole ecosystem.
+Huge beds of native oysters were alos once common in the waters in and around Campbeltown Loch. Described as a keystone species, they both clean water and provide an environment for a whole ecosystem.
 
 # Our aims
 
