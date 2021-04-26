@@ -27,6 +27,4 @@ In temperate climates, like the UK, native oyster beds play a role similar to tr
 
 # Loch restoration feasibility study 
 
-
-
-[oysters_feasibility_campbeltown_loch](https://docs.google.com/spreadsheets/d/1HtXxrqlUCXbcJXXijKwEA2onRmXXlhyI6pL4SoWG6yM/edit?usp=sharing )
+* [oysters_feasibility_campbeltown_loch](https://docs.google.com/spreadsheets/d/1HtXxrqlUCXbcJXXijKwEA2onRmXXlhyI6pL4SoWG6yM/edit?usp=sharing )
