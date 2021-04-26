@@ -25,7 +25,14 @@ In temperate climates, like the UK, native oyster beds play a role similar to tr
 * Restore native oysters to Cambeltown Loch and surrounding waters
 * Supply oyster seed for restoration nationally and internationally
 
+# Goals
+ 
+1. Establish native oyster hatchery
+1. Self sustaining native oyster population in Campbletown Loch 
+ 
 # Loch restoration feasibility study 
+ 
+To reach the goal of a self sustaining population in the Loch its feasibility study was carried out.
 
 * [oysters_feasibility_campbeltown_loch](https://docs.google.com/spreadsheets/d/1HtXxrqlUCXbcJXXijKwEA2onRmXXlhyI6pL4SoWG6yM/edit?usp=sharing)
 
