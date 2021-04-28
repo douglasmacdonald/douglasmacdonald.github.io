@@ -36,6 +36,10 @@ To reach the goal of a self sustaining population in the Loch its feasibility st
 
 * [oysters_feasibility_campbeltown_loch](https://docs.google.com/spreadsheets/d/1HtXxrqlUCXbcJXXijKwEA2onRmXXlhyI6pL4SoWG6yM/edit?usp=sharing)
 
+# Contact
+
+`dug.armadale@gmail.com`
+
 # Links
 
 
