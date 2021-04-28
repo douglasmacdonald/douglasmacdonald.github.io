@@ -38,7 +38,7 @@ To reach the goal of a self sustaining population in the Loch its feasibility st
 
 # Contact
 
-`dug.armadale@gmail.com`
+dug.armadale@gmail.com
 
 # Links
 
