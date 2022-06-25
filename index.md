@@ -45,3 +45,7 @@ dug.armadale@gmail.com
 
 * [EUROPEAN NATIVE OYSTER HABITAT RESTORATION HANDBOOK UK & IRELAND NOVEMBER 2020, ISBN: 978-0-900881-80-0](https://nativeoysternetwork.org/wp-content/uploads/sites/27/2020/11/ZSL00150%20Oyster%20Handbook_WEB.pdf)
 * [World Map]({{ site.baseurl }}/world_map.html)
+* [World Map](//world_map.html)
+* [World Map](/world_map.html)
+* [World Map](world_map.html)
+
