@@ -6,7 +6,7 @@ Described as a *keystone species*, Native Oysters both clean water and provide a
 
 ###### Geographical spread
 
-Native oysters were once common around Scotland, UK, coastal European countries and as far south as Morocco. 
+Native oysters were once common around Scotland, the UK, coastal European countries and as far south as Morocco. 
 
 ###### Off our coast
 
@@ -14,25 +14,25 @@ Huge beds (possibly a billion) of native oysters were also found in the waters o
 
 ###### The collapse 
 
-Within 100 years more than 95% of all Native Oysters have gone and in Kintyre they are functionally extinct.
+Within 100 years, more than 95% of all Native Oysters have gone, and they are functionally extinct in Kintyre.
 
 ###### Impact
 
-In temperate climates, like the UK, native oyster beds play a role similar to tropical coral reefs. And like coral reefs, when native oyster beds collapse then all the species that utilised that environment also disappear. This leaves barren expanses, poorer water quality and, in the main, only transient species. 
+In temperate climates, like the UK, native oyster beds play a role similar to tropical coral reefs. And like coral reefs, when native oyster beds collapse, all the species that utilise that environment also disappear. This leaves barren expanses, poorer water quality and, in the main, only transient species. 
 
 # Our aims
 
-* Restore native oysters to Cambeltown Loch and surrounding waters
+* Restore native oysters to Campbeltown Loch and surrounding waters
 * Supply oyster seed for restoration nationally and internationally
 
 # Goals
  
-1. Establish native oyster hatchery
-1. Self sustaining native oyster population in Campbletown Loch 
+1. Establish a native oyster hatchery
+1. Self-sustaining native oyster population in Campbeltown Loch 
  
 # Loch restoration feasibility study 
  
-To reach the goal of a self sustaining population in the Loch its feasibility study was carried out.
+A feasibility study was proposed to reach the goal of a self-sustaining population in the Loch.
 
 * [oysters_feasibility_campbeltown_loch](https://docs.google.com/spreadsheets/d/1HtXxrqlUCXbcJXXijKwEA2onRmXXlhyI6pL4SoWG6yM/edit?usp=sharing)
 
@@ -44,3 +44,11 @@ dug.armadale@gmail.com
 
 * [EUROPEAN NATIVE OYSTER HABITAT RESTORATION HANDBOOK UK & IRELAND NOVEMBER 2020, ISBN: 978-0-900881-80-0](https://nativeoysternetwork.org/wp-content/uploads/sites/27/2020/11/ZSL00150%20Oyster%20Handbook_WEB.pdf)
 * [Campbeltown Loch satellite image](satellite_campbeltown_loch.html)
+
+# World Beach Triathalon 
+
+On a completely different topic, follow this [link](https://docs.google.com/document/d/1rD0IzKcYWF-n3KwffhbG648ekrf23d5Pz76wKDPqixE/edit?usp=sharing) for information on a beach triathlon.
+
+
+
+
