@@ -1,3 +1,7 @@
+---
+title: Home Page
+---
+
 # Site Index
 
 * [About](about.md)
