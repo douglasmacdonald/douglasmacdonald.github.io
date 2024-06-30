@@ -1,3 +1,8 @@
+# Site Index
+
+* [about](about.md)
+* [Beach Triathlon](beach-triathlon.md)
+* [Native Oysters](oysters.md)
 
 ## Contact
 
