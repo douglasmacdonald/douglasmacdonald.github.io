@@ -1,5 +1,5 @@
 
-# "Campbeltown Loch Native Oyster Hatchery and Restoration Project"
+# Campbeltown Loch Native Oyster Hatchery and Restoration Project
 
 ## Our Native Oysters
 
