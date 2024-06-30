@@ -1,5 +1,5 @@
 
-# Contact
+## Contact
 
 dug.armadale@gmail.com
 
