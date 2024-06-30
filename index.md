@@ -4,9 +4,7 @@
 * [Beach Triathlon](beach-triathlon.md)
 * [Native Oysters](oysters.md)
 
-## Contact
 
-dug.armadale@gmail.com
 
 
 
