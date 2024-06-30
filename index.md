@@ -1,6 +1,6 @@
 # Site Index
 
-* [about](about.md)
+* [About](about.md)
 * [Beach Triathlon](beach-triathlon.md)
 * [Native Oysters](oysters.md)
 
