@@ -35,7 +35,7 @@ In temperate climates, like the UK, native oyster beds play a role similar to tr
  
 # Loch restoration feasibility study 
  
-A feasibility study was proposed to reach the goal of a self-sustaining population in the Loch.
+A feasibility study was proposed to achieve a self-sustaining population in the Loch.
 
 * [oysters_feasibility_campbeltown_loch](https://docs.google.com/spreadsheets/d/1HtXxrqlUCXbcJXXijKwEA2onRmXXlhyI6pL4SoWG6yM/edit?usp=sharing)
 
