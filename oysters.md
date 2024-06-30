@@ -1,6 +1,5 @@
-layout: page
-title: "Campbeltown Loch Native Oyster Hatchery and Restoration Project"
-permalink: /projects/oysters
+
+# "Campbeltown Loch Native Oyster Hatchery and Restoration Project"
 
 ## Our Native Oysters
 
